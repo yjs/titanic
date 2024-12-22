@@ -1,5 +1,5 @@
 
-# Y/stream
+# Titanic
 
 A *unique* attempt to create a multi-master eventual consistent database that
 syncs many CRDTs (e.g. Yjs documents) efficiently.
